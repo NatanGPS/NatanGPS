@@ -15,6 +15,7 @@
   <img align="center" alt="Nat-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Nat-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="Nat-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg">
+  <img align="right" alt="Nat-nat" src="https://cdn.discordapp.com/attachments/437342945180516360/930964244814495794/picasion.com_6d37fba9fef7b2196bd002edcf0af0b4.gif">
   
   
 
