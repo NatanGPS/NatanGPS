@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Natan!
 
-- 🔭 Trabalho com Python e Data Sciense 
+- 🔭 Trabalho com Python e Data Science 
 - 🌱 Estou aprendendo Python e AWS
 
 
