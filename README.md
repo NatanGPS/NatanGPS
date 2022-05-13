@@ -1,8 +1,7 @@
 ### Olá! Meu nome é Natan!
-
-- 🔭 Trabalho com Python e Data Science 
-- 🌱 Estou aprendendo Python e AWS
-
+- 🌱 - Tenho grande interesse em probabilidade e estatística, constantemente evoluindo minhas habilidades e conhecimentos em modelagem e tratamento de dados.
+- 🧨 SQL | Python | R | Pandas | AWS
+  
 
 
 <div align="center">
